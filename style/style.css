@@ -1,0 +1,38 @@
+
+.head-container{
+    position: relative;
+}
+.top{
+    position: absolute;
+    text-align: left;
+    margin: 50px;
+    
+}
+
+
+.skill-container{
+    display: flex;
+    gap: 30px;
+    margin: 230px;
+ }
+}
+   
+}
+.btn-primary{
+    color: rgb(98, 154, 203);
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    align:right;
+}
+nav{
+
+}
+.container{
+    position: relative;
+}
+.mindset{
+    position: absolute;
+    text-align: center;
+    margin-top: 200px;
+}
