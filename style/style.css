@@ -1,6 +1,7 @@
 
 .head-container{
     position: relative;
+    background-color: red;
 }
 .top{
     position: absolute;
